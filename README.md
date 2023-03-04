@@ -1,2 +1,2 @@
 # web
- a repo to store all of my previous prjects
+ a repo to store all of my previous projects
